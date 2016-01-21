@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		45F229F71C4C8C7E0051271C /* ResultsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45F229F61C4C8C7E0051271C /* ResultsTableViewController.swift */; };
 		45F229F91C4C9B580051271C /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45F229F81C4C9B580051271C /* TableViewCell.swift */; };
 		7BA2A3F81C2E5598009BCC89 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BA2A3F71C2E5598009BCC89 /* AppDelegate.swift */; };
 		7BA2A3FD1C2E5598009BCC89 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7BA2A3FB1C2E5598009BCC89 /* Main.storyboard */; };
@@ -21,7 +20,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		45F229F61C4C8C7E0051271C /* ResultsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ResultsTableViewController.swift; path = ../ResultsTableViewController.swift; sourceTree = "<group>"; };
 		45F229F81C4C9B580051271C /* TableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		7BA2A3F41C2E5598009BCC89 /* Sideslip&TabbarLikeQQDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Sideslip&TabbarLikeQQDemo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7BA2A3F71C2E5598009BCC89 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -72,7 +70,6 @@
 				7BA2A4101C2E5684009BCC89 /* MainTabbarController.swift */,
 				7BA2A4121C2E56AE009BCC89 /* FirstViewController.swift */,
 				7BA2A4141C2E5A2F009BCC89 /* SecondViewController.swift */,
-				45F229F61C4C8C7E0051271C /* ResultsTableViewController.swift */,
 				7BA2A3FB1C2E5598009BCC89 /* Main.storyboard */,
 				7BA2A3FE1C2E5598009BCC89 /* Assets.xcassets */,
 				45F229F81C4C9B580051271C /* TableViewCell.swift */,
@@ -165,7 +162,6 @@
 			files = (
 				7BA2A4151C2E5A2F009BCC89 /* SecondViewController.swift in Sources */,
 				45F229F91C4C9B580051271C /* TableViewCell.swift in Sources */,
-				45F229F71C4C8C7E0051271C /* ResultsTableViewController.swift in Sources */,
 				7BA2A4131C2E56AE009BCC89 /* FirstViewController.swift in Sources */,
 				7BA2A3F81C2E5598009BCC89 /* AppDelegate.swift in Sources */,
 				7BA2A40B1C2E5607009BCC89 /* MainViewController.swift in Sources */,
